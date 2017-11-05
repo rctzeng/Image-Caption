@@ -1,5 +1,5 @@
 # Image Caption
-This is repository holds the material of course [CS565500 Largs-Scale Machine Learning](http://www.cs.nthu.edu.tw/~shwu/courses/ml/) at NTHU in Taiwan.
+This is repository holds the material for course [CS565500 Largs-Scale Machine Learning](http://www.cs.nthu.edu.tw/~shwu/courses/ml/) at NTHU in Taiwan.
 
 ### Package requirement
  * Python 3
